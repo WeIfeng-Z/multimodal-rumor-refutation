@@ -1,9 +1,5 @@
 
-```text
-modality-function-rumor-refutation
-```
 
-```markdown
 # Modality-Function Matching in Multimodal Rumor Refutation
 
 This repository provides code, coding prompts, and supplementary materials for the study:
