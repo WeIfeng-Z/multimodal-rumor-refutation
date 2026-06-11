@@ -1,4 +1,3 @@
-下面是可以直接放到 GitHub 的 `README.md` 完整版本。仓库名建议配合用：
 
 ```text
 modality-function-rumor-refutation
